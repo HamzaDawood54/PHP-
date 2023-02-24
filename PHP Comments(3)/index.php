@@ -3,7 +3,7 @@
 <body>
 <?php
 //You can also use comments to leave out parts of the code
-$x=5+/*15*/+5;
+$x=5/*+15*/+5;
 echo $x;
 ?>
 </body>
